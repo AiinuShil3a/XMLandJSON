@@ -1,0 +1,24 @@
+<bookstore>
+    <book category="food">
+        <title lang="en">Everyday Italian</title>
+        <author>Giada De Laurentils</author>
+        <year>2005</year>
+        <price>30.00</price>
+    </book>
+
+    <books>
+    <book>
+        <id>01</id>
+        <language>Java</language>
+        <edition>third</edition>
+        <author>Herbert</author>
+    </book>
+
+    <book>
+        <id>02</id>
+        <language>Java2</language>
+        <edition>first</edition>
+        <author>Mono</author>
+    </book>
+    </books>
+</bookstore>

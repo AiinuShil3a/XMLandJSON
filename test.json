@@ -1,0 +1,34 @@
+{
+    "Shopping":[
+        {
+            "Customer":"Mr.lee", 
+            "item" : [
+                {
+                    "name" : "A4Paper",
+                    "qty" : 5,
+                    "price" : 120
+                },
+                {
+                    "name" : "Pen",
+                    "qty" : 5,
+                    "price" : 160
+                }
+            ]
+        },
+        {
+            "Customer":"Mr.Yue", 
+            "item" : [
+                {
+                    "name" : "A3",
+                    "qty" : 2,
+                    "price" : 500
+                },
+                {
+                    "name" : "A4Paper",
+                    "qty" : 5,
+                    "price" : 800
+                }
+            ]
+        }
+    ]
+    }
